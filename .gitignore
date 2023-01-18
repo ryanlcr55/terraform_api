@@ -1,0 +1,7 @@
+/code/.idea/
+/code/bin/
+/infra/.terraform/
+/infra/code/.idea/
+/infra/.terraform.lock.hcl
+/code/lambda_source.zip
+/.idea/
